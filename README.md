@@ -1,7 +1,7 @@
 # Desafio-Dio-Numero1
 Primeiro Desafio do Curso Dio
 
-##APP úteis (e gratuitos) que facilitam seu dia e trabalhar melhor
+#APP úteis (e gratuitos) que ajudam no dia a dia para trabalhar melhor
 
     1. Pushbullet
 
